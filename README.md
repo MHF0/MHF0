@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, Nodejs, MongoDB and MySQL. 
 - 💞️ I’m looking to collaborate on Frontend developer or Backend developer
 - 📫 How to reach me:
-      >Linkedin: #[Mohammed Farhan](https://www.linkedin.com/in/mohammedfarhan-3b2522202/).
-      >Email: Moh.hesham.f@gmail.com.
-      >phone: +962785836823
+      ###Linkedin: #[Mohammed Farhan](https://www.linkedin.com/in/mohammedfarhan-3b2522202/).
+      ###Email: Moh.hesham.f@gmail.com.
+      ###phone: +962785836823
 
 <!---
 Mohamad-Farhan/Mohamad-Farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
