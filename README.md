@@ -1,6 +1,13 @@
 # 👋 Hi, I’m @Mohamad-Farhan
 # 👀 I’m interested in Full-stack web developer
-# 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, Nodejs, MongoDB and MySQL. 
+# 🌱 I’m currently learning:
+### HTML,
+### CSS, 
+### JavaScript,
+### Reactjs, 
+### Nodejs, 
+### MongoDB, 
+### MySQL. 
 # 💞️ I’m looking to collaborate on Frontend developer or Backend developer
 # 📫 How to reach me:
 ### Linkedin: [Mohammed Farhan](https://www.linkedin.com/in/mohammedfarhan-3b2522202/).
