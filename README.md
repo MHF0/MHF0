@@ -1,4 +1,4 @@
-## GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 ![Mukul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Farhan&count_private=true&show_icons=true&theme=algolia)
 
