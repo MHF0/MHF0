@@ -1,4 +1,4 @@
-## GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohamad-Farhan&theme=algolia)](https://github.com/Mohamad-Farhan)
 
