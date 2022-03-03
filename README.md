@@ -13,7 +13,7 @@ A Full-Stack web developer and teacher assistant with industry experience buildi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohamad-Farhan&row=1&column=6&theme=algolia)](https://github.com/Mohamad-Farhan)
 
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mohamad-Farhan&layout=compact&langs_count=8&theme=algolia"/> 
 
 [![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad-Farhan&no-bg=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/Mohamad-Farhan)
 
