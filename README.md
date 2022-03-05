@@ -1,6 +1,6 @@
 ## Hello, I'm Mohammed Farhan
 
-A Full-Stack web developer and teacher assistant with industry experience building websites and web applications. 
+A Full-Stack web developer and teaching assistant with industry experience building websites and web applications. 
 
 ### [](https://github.com/OmarHamdann#-tech-stack)🛠 Technical Skills
 
